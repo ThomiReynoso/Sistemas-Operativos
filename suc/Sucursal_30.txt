@@ -1,0 +1,5 @@
+CodigoProducto;NombreProducto;Cantidad
+1;Boligoma;30
+3;Microfibras;-1000
+9;Asd;2000
+10;Pepitos;500

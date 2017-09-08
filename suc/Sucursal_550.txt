@@ -1,0 +1,5 @@
+CodigoProducto;NombreProducto;Cantidad
+1;Boligoma;30
+3;Microfibras;40
+9;Asd;10
+12;Lapicera Bic; 150

@@ -1,0 +1,3 @@
+CodigoProducto;NombreProducto;Cantidad
+1;Boligoma;-500
+13;Mouse optico;100
